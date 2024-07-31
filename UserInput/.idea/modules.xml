@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Expressions.iml" filepath="$PROJECT_DIR$/Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserInput.iml" filepath="$PROJECT_DIR$/UserInput.iml" />
     </modules>
   </component>
 </project>
